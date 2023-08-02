@@ -1,6 +1,6 @@
 # FlowFrontiers
 
-Welcome to the FlowFrontiers research group, a dedicated team within the MEDIANETS laboratories of the Department of Networked Systems and Services at the Budapest University of Technology and Economics. Our group's research focus spans various domains of networked systems, including Federated Learning, P4 programmable networks, flow-level measurement, network anomaly detection, and machine learning applications in intelligent transportation systems. We are committed to pushing the boundaries of understanding in these domains, emphasizing transparency, reproducibility, and innovative thinking.
+Welcome to the FlowFrontiers research group, a dedicated team within the [MEDIANETS](http://medianets.hu/home/) laboratories of the Department of Networked Systems and Services at the Budapest University of Technology and Economics. Our group's research focus spans various domains of networked systems, including Federated Learning, P4 programmable networks, flow-level measurement, network anomaly detection, and machine learning applications in intelligent transportation systems. We are committed to pushing the boundaries of understanding in these domains, emphasizing transparency, reproducibility, and innovative thinking.
 
 ## Key Research and Development Initiatives
 
